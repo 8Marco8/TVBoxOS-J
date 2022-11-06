@@ -544,7 +544,7 @@
 
     <ProgressBar
         android:layout_width="@dimen/vs_50"
-        android:layout_height="@dimen/vs_50"
+        android:layout_height="@dimen/vs_100"
         android:layout_gravity="center"
         android:indeterminateBehavior="repeat"
         android:indeterminateDrawable="@drawable/anim_loading"
@@ -557,7 +557,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginTop="@dimen/vs_40"
+        android:layout_marginTop="@dimen/vs_70"
         android:focusable="false"
         android:focusableInTouchMode="false"
         android:tag="play_load_net_speed"
